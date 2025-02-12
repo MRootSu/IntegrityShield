@@ -6,8 +6,8 @@
 #
 #══════════════════════════════════════════════════════════════════════════
 # Usage:
-#   boot-img-flasher.sh [-h|--help]
-#   boot-img-flasher.sh <image_path> --image-type <type> 
+#   MRootSu.sh [-h|--help]
+#   MRootSu.sh <image_path> --image-type <type> 
 #
 # Options:
 #   -h, --help         Show help message and exit
@@ -19,7 +19,7 @@
 #
 #══════════════════════════════════════════════════════════════════════════
 # File Structure:
-#   boot-img-flasher.sh   Main script file
+#   MRootSu.sh   Main script file
 #   *.img                 Boot or init_boot image to be flashed (if not provided as an argument)
 #
 #══════════════════════════════════════════════════════════════════════════
