@@ -3,5 +3,6 @@
   "MANUFACTURER": "Google",
   "MODEL": "Pixel 6",
   "SECURITY_PATCH": "2025-04-05",
-  "spoofVendingSdk": false
+  "DEVICE_INITIAL_SDK_INT": 32,
+  "spoofVendingSdk": 32
 }
